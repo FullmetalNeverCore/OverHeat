@@ -1,0 +1,2 @@
+# OverHeat
+CPU temps detection
